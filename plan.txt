@@ -1,0 +1,27 @@
+Model Chosen for Evaluation - CodeT5+. This is an open source model which has been 
+developed by salesforce and is available for public use on HuggingFace.
+
+Research Plan:
+My approach will be to firstly read available public documentation available on this 
+model to understand which domain and application it is that it will excel at. I would 
+search for it's github repository and try to infer as much as I can about it's use cases, and
+architecture from the ReadMe. Additionally I would also examine the licensing terms to 
+understand the permissions and limitations for using or modifying the model.
+
+After this foundational exploration, I would further look for technical papers, blog posts, or 
+presentations authored by the creators or the community around the model. These resources often 
+explain the underlying algorithms, training data, performance benchmarks, and improvements over time. 
+I would also participate in forums and discussion groups to gain practical insights from users and developers.
+To complete this research, my plan would be to get hands on experience by using the model myself and 
+infering from it's results.
+
+Criteria for Evaluation:
+The evaluation will focus on a few key areas: 
+1. How well the model can identify any underlying misunderstandings 
+2. Second, whether its prompts guide users to think things through rather than just giving away the answers 
+3. How clear and easy to understand its language is
+4. Practical factors such as how simple it is to deploy, the cost involved, and how easy it is to interpret what the model is doing.
+
+I chose CodeT5+ because it’s specially optimized for understanding Python code and is relatively lightweight compared to models like StarCoder. 
+It’s also flexible enough to be adapted for educational purposes through prompt engineering or fine-tuning. Its strong ability to 
+comprehend code makes it a promising option for analyzing code competence.
